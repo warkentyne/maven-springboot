@@ -8,6 +8,8 @@ To run: ``java -jar target/hello-0.0.1-SNAPSHOT.jar``
 
 SpringBoot is configured to run on port 8081. You can change this by editing ``src/main/resources/application.properties``
 
+Assuming you haven't changed the port, you can access the application at http://localhost:8081
+
 ## Creating inoculated JAR
 
 - Copy ``target/hello-0.0.1-SNAPSHOT.jar`` (e.g. to ``hello.jar``)
