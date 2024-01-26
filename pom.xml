@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.mergebase</groupId>
-	<artifactId>hello</artifactId>
+	<artifactId>maven-script</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>hello</name>
 	<description>Demo project for Spring Boot</description>
